@@ -34,6 +34,10 @@ body {
   height: 30px;
 }
 
+.contact {
+  display: column;
+}
+
 .site-title {
   font-size: 2rem;
 }

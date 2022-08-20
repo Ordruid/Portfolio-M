@@ -7,7 +7,7 @@ export default function Nav() {
         Brian Hobby Junior Dev
       </Link>
       <ul>
-        <CustomLink to="/about">About</CustomLink>
+        <CustomLink to="/contact">Contact</CustomLink>
         <CustomLink to="/resume">Resume</CustomLink>
       </ul>
     </nav>
