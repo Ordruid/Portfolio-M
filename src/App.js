@@ -1,8 +1,8 @@
-import Nav from "./Nav"
-import Resume from "./pages/Resume"
-import Home from "./pages/Home"
-import About from "./pages/About"
-import { Route, Routes } from "react-router-dom"
+import Nav from "./Nav";
+import Resume from "./pages/Resume";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
         </Routes>
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
