@@ -4,6 +4,7 @@
 
 body {
   margin: 0;
+  background-color: grey;
 }
 
 .container {
@@ -34,8 +35,15 @@ body {
   height: 30px;
 }
 
+
+
 .contact {
-  display: column;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  
 }
 
 .site-title {
