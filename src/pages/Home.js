@@ -17,7 +17,7 @@ export default function Home() {
           with my friends, family, and soon fellow aspiring developers which
           opened an entirely new world of possibilities and perspective. I hope
           to eventually find a career with others that share this passion and
-          excitement in order to help build something truly wonderful.
+          excitement in order to help build something truly wonderful!
         </h4>
       </div>
     </div>
